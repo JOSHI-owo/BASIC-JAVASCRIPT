@@ -1,0 +1,48 @@
+body {
+  box-sizing: border-box;
+  background-color: aqua;
+  color: white;
+}
+
+.container {
+  margin-top: 15rem;
+  margin-left: 15rem;
+}
+
+.navbar {
+  height: 50px;
+  border-radius: 8px;
+  font-size: 25px;
+  color: rgb(10, 150, 150);
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.lin {
+  display: flex;
+  flex-direction: row;
+}
+li {
+  margin-inline: 25px;
+  list-style: none;
+}
+li > a {
+  text-decoration: none;
+  color: rgb(10, 150, 150);
+}
+.btn {
+  color: white;
+  background-color: black;
+  margin: 0px, 10px;
+  padding: 10px 14px;
+  border-radius: 7px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
