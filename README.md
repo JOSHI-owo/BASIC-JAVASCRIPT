@@ -11,6 +11,7 @@ II. **Counter**: * In this project the count is set 0 at the start.
                  * When the user clicks on the "decrease" button the count decreases by 1.
                  * If the count is greater than 0 the color of the counter and the color of the number changes to green.
                  * If the count is less than 0 the color of the counter and the color of the number changes to red.
+                 
 III. **Surprise me**: * In this project a card contains data about user.
                       * When the button "Surprise me" is clicked a the card will show a details of a random person.
                       * If a user clicks on the "<" button, then the previous persons details are displayed on the card.
